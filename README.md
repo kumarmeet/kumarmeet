@@ -1,17 +1,26 @@
-### Hi there 👋
 
-This is Meet Kumar Vishwakarma
+## 🚀 About Me
+A Backend Developer passionate about creating interactive applications and experiences on the web.
 
-<!--
-**kumarmeet/kumarmeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://meetportfolio.herokuapp.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kumarMeet_)
 
-##- 🔭 I’m currently working on optimizing conventional algorithms
-##- 🌱 I’m currently learning Data Structures & Algorithms, C++, OOP
-##- 👯 I’m looking to collaborate on C/C++ related software
-##- 🤔 I’m looking for help with peer programming
-##- 💬 Ask me about C/C++, How pointers work, Data Structures & Algorithms
-##- 📫 How to reach me: kumarmeet51@yahoo.com
-##- 😄 Quote: Syntax is temporary, logic is parmanent.
-##- ⚡ Fun fact: Learning on Pentium dual Core
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on student study tracker rest apis
+
+🧠 I'm currently learning typescript
+
+👯‍♀️ I'm looking to collaborate on backend security
+
+🤔 I'm looking for help with how to secure rest api endpoints with api key
+
+💬 Ask me about backend technology
+
+
+## 🛠 Skills
+Nodejs, Expressjs, Mongodb, MySql, NPM, Javascript, TypeScript, C/C++, HTML, CSS
+
