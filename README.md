@@ -24,11 +24,10 @@ A Backend Developer passionate about creating interactive applications and exper
 ## 🛠 Skills
 Nodejs, Expressjs, Mongodb, MySql, NPM, Javascript, TypeScript, C/C++, HTML, CSS
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarmeet&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
-
-
 ## <h3 align="left">GitHub Stats</h3>
 
 <a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=PluckyPrecious&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=kumarmeet&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 <a />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarmeet&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
