@@ -9,7 +9,7 @@ A Backend Developer passionate about creating interactive applications and exper
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kumarMeet_)
 
 
-## Other Common Github Profile Sections
+## Something more about me
 👩‍💻 I'm currently working on student study tracker rest apis
 
 🧠 I'm currently learning typescript
