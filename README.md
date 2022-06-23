@@ -16,7 +16,7 @@ A Backend Developer passionate about creating interactive applications and exper
 
 👯‍♀️ I'm looking to collaborate on backend security
 
-🤔 I'm looking for help with how to secure rest api endpoints with api key
+🤔 I'm looking for help with how to secure rest api endpoints with api key (efficiently)
 
 💬 Ask me about backend technology
 
