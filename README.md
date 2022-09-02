@@ -12,7 +12,7 @@ A Backend Developer passionate about creating interactive applications and exper
 ## Something more about me
 👩‍💻 I'm currently working on student study tracker rest apis
 
-🧠 I'm currently learning typescript
+🧠 I'm currently learning python
 
 👯‍♀️ I'm looking to collaborate on backend security
 
