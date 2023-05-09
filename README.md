@@ -10,13 +10,13 @@ A Backend Developer passionate about creating interactive applications and exper
 
 
 ## Something more about me
-👩‍💻 I'm currently working on student study tracker rest apis
+👩‍💻 I'm currently working on Joompa Dating App and PMS
 
 <!-- 🧠 I'm currently learning python -->
 
 👯‍♀️ I'm looking to collaborate on backend security
 
-🤔 I'm looking for help with how to secure rest api endpoints with api key (efficiently)
+🤔 I'm looking for help with using containers efficiently (docker)
 
 💬 Ask me about backend technology and DSA
 
