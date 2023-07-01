@@ -10,7 +10,7 @@ A Backend Developer passionate about creating interactive applications and exper
 
 
 ## Something more about me
-👩‍💻 I'm currently working on Joompa Dating App and PMS
+👩‍💻 I'm currently working on Traveler Insurance Web App
 
 <!-- 🧠 I'm currently learning python -->
 
