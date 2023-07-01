@@ -22,7 +22,7 @@ A Backend Developer passionate about creating interactive applications and exper
 
 
 ## 🛠 Skills
-Nodejs, Expressjs, Mongodb, MySql, NPM, Javascript, TypeScript, C/C++, HTML, CSS
+Nodejs, Expressjs, Nestjs, Mongodb, MySql, NPM, Javascript, TypeScript, C/C++, ORMs, ODMs
 
 ## <h3 align="left">GitHub Stats</h3>
 
