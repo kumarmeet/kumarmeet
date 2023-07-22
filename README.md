@@ -1,6 +1,16 @@
 
 ## 🚀 About Me
-A Backend Developer passionate about creating interactive applications and experiences on the web.
+👋 Hey there! I'm Meet Kumar Vishwakarma, a passionate software developer with 2.6 years of experience in the tech world. 🚀 My GitHub is home to 6 exciting projects that showcase my love for building innovative solutions.
+
+💖 In the world of dating, I crafted a unique app to connect hearts and bring people closer. Swipe right on my project to see the magic unfold!
+
+🛍️ When it comes to e-commerce, I've built not just one, but three impressive applications that deliver seamless shopping experiences. Browse through my repositories to witness the power of technology in the retail world.
+
+🏢 I've also delved into the complexities of insurance, creating a robust application that ensures financial security for countless users.
+
+🔧 My tech stack of choice includes TypeScript, NestJS, Node.js, MySQL, and MongoDB. The perfect blend to make applications efficient and scalable!
+
+Let's connect and collaborate on some exciting projects. Feel free to explore my repositories and join me on this coding journey. Together, we can change the world, one line of code at a time! 🌍💻
 
 
 ## 🔗 Links
