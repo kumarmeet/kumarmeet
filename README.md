@@ -36,8 +36,6 @@ Nodejs, Expressjs, Nestjs, Mongodb, MySql, NPM, Javascript, TypeScript, C/C++, O
 
 ## <h3 align="left">GitHub Stats</h3>
 
-<a href="">
 ![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumarmeet&show_icons=true)
-<a />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarmeet&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
