@@ -12,12 +12,12 @@
 
 Let's connect and collaborate on some exciting projects. Feel free to explore my repositories and join me on this coding journey. Together, we can change the world, one line of code at a time! 🌍💻
 
-![](https://komarev.com/ghpvc/?username=kumarmeet&color=blue)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://meetkumarportfolio.onrender.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kumarMeet_)
+![](https://komarev.com/ghpvc/?username=kumarmeet&color=blue)
 
 
 ## Something more about me
