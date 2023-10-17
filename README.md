@@ -2,7 +2,7 @@
 ## 🚀 About Me  ![](https://komarev.com/ghpvc/?username=kumarmeet&color=blue)
 👋 Hey there! I'm Meet Kumar Vishwakarma, a passionate software developer with 2.6 years of experience in the tech world. 🚀 My GitHub is home to 6 exciting projects that showcase my love for building innovative solutions.
 
-💖 In the world of dating, I crafted a unique app to connect hearts and bring people closer. Swipe right on my project to see the magic unfold!
+💖 In the world of match making, I crafted a unique app to connect hearts and bring people closer. Swipe right on my project to see the magic unfold!
 
 🛍️ When it comes to e-commerce, I've built not just one, but three impressive applications that deliver seamless shopping experiences. Browse through my repositories to witness the power of technology in the retail world.
 
@@ -14,7 +14,8 @@ Let's connect and collaborate on some exciting projects. Feel free to explore my
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://meetkumarportfolio.onrender.com/)
+<!--[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://meetkumarportfolio.onrender.com/) -->
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nextjs-portfolio-psi-ten.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kumarMeet_)
 
