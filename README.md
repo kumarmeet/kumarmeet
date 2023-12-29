@@ -8,7 +8,7 @@
 
 🏢 I've also delved into the complexities of insurance, creating a robust application that ensures financial security for countless users.
 
-🔧 My tech stack of choice includes Golang, TypeScript, NestJS, Node.js, MySQL, and MongoDB. The perfect blend to make applications efficient and scalable!
+🔧 My tech stack of choice includes Docker, Golang, TypeScript, NestJS, Node.js, MySQL, and MongoDB. The perfect blend to make applications efficient and scalable!
 
 Let's connect and collaborate on some exciting projects. Feel free to explore my repositories and join me on this coding journey. Together, we can change the world, one line of code at a time! 🌍💻
 
