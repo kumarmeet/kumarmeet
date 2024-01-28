@@ -33,7 +33,7 @@ Let's connect and collaborate on some exciting projects. Feel free to explore my
 
 
 ## 🛠 Skills
-Nodejs, Expressjs, Nestjs, Mongodb, MySql, NPM, Javascript, TypeScript, C/C++, ORMs, ODMs
+Nodejs, Expressjs, Go, Docker, AWS, Nestjs, Mongodb, MySql, NPM, Javascript, TypeScript, C/C++, ORMs, ODMs
 
 ## <h3 align="left">GitHub Stats</h3>
 
