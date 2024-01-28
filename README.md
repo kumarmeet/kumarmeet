@@ -1,6 +1,6 @@
 
 ## 🚀 About Me  ![](https://komarev.com/ghpvc/?username=kumarmeet&color=blue)
-👋 Hey there! I'm Meet Kumar Vishwakarma, a passionate software developer with 2.6 years of experience in the tech world. 🚀 My GitHub is home to 6 exciting projects that showcase my love for building innovative solutions.
+👋 Hey there! I'm Meet Kumar Vishwakarma, a passionate software developer with 3+ years of experience in the tech world. 🚀 My GitHub is home to 6 exciting projects that showcase my love for building innovative solutions.
 
 💖 In the world of match making, I crafted a unique app to connect hearts and bring people closer. Swipe right on my project to see the magic unfold!
 
