@@ -5,14 +5,12 @@
 ---
 
 ## 💫 About Me
-I'm a passionate **Software Developer** with **4+ years of experience**, building high-performance backend systems and real-world production applications.
+I’m a passionate **Software Developer** with over **4 years of experience** in building scalable backend systems, designing APIs, and creating efficient cloud-ready applications.
 
-💘 **Matchmaking App** – Built a unique platform to connect hearts through modern algorithms and smooth UI/UX.  
-🛒 **E-Commerce Apps (x3)** – Designed seamless and scalable shopping experiences.  
-🛡️ **Insurance Application** – Developed robust systems ensuring reliable financial protection for users.
+I love writing clean, maintainable code and enjoy exploring modern backend technologies, distributed systems, and cloud-native architectures.  
+Solving real-world engineering problems, optimizing performance, and designing reliable systems are what motivate me every day.
 
-I love creating meaningful and scalable products that solve real problems.  
-Let’s collaborate and build something amazing together! 🌍💻
+I'm always curious, always learning — and always ready to collaborate on challenging and meaningful projects.
 
 ---
 
@@ -34,16 +32,16 @@ Let’s collaborate and build something amazing together! 🌍💻
 
 ## 🌱 Currently
 - 💼 Working on a **Traveler Insurance Web App**  
-- 🤝 Open to collaborating on **Backend Security** projects  
-- 🐳 Learning to optimize **Containerization with Docker**  
-- 💬 Ask me anything about **Backend Engineering & DSA**
+- 🤝 Open to collaborating on **Backend Security**  
+- 🐳 Learning to use **Docker & Containers** more efficiently  
+- 💬 Ask me about **Backend Engineering & DSA**
 
 ---
 
 ## 🛠 Skills Snapshot  
 | Category | Technologies |
 |---------|--------------|
-| **Languages** | JavaScript, TypeScript, Go, C/C++, Rust |
+| **Languages** | JavaScript, TypeScript, Go, C/C++ |
 | **Backend** | Node.js, Express.js, NestJS |
 | **Cloud & DevOps** | Docker, AWS |
 | **Databases** | MongoDB, MySQL |
@@ -57,15 +55,4 @@ Let’s collaborate and build something amazing together! 🌍💻
 ![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumarmeet&show_icons=true&theme=radical)
 
 ### 🔥 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarmeet&langs_count=10&theme=radical)
-
----
-
-## ✨ Fun Fact  
-I believe every great product starts with **clarity, consistency, and clean code** — and I strive to bring that into every project.
-
----
-
-## 🚀 Let’s Build Something Awesome!
-If you love backend engineering, cloud, or system design — we’re already on the same page.  
-Drop a message anytime. Let's innovate together! 🙌
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarmeet&langs_count=10&theme=radical)_)
