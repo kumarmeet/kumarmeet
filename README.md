@@ -32,7 +32,7 @@ I'm always curious, always learning — and always ready to collaborate on chall
 
 ## 🌱 Currently
 - 💼 Working on a **AI Projects and Software Architecture**  
-- 🤝 Open to collaborating on **Backend Security**  
+- 🤝 Open to collaborating on **System Programming**  
 - 🐳 Learning to use **Docker & Containers** more efficiently  
 - 💬 Ask me about **Backend Engineering & DSA**
 
