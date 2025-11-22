@@ -15,11 +15,11 @@ I'm always curious, always learning — and always ready to collaborate on chall
 ---
 
 ## 🔧 Tech Stack I Love Working With
-**Backend:** `Node.js` · `Express.js` · `NestJS` · `Golang`  
+**Backend:** `Node.js` · `Express.js` · `NestJS` · `Golang` · `Rust` 
 **Databases:** `MySQL` · `MongoDB`  
 **DevOps / Cloud:** `Docker` · `AWS`  
-**Programming:** `JavaScript` · `TypeScript` · `C/C++`  
-**Tools:** `NPM` · `ORMs` · `ODMs`
+**Programming:** `JavaScript` · `TypeScript` · `C/C++` · `Rocket` 
+**Tools:** `NPM` · `ORMs` · `ODMs` · `Cargo` 
 
 ---
 
@@ -41,7 +41,7 @@ I'm always curious, always learning — and always ready to collaborate on chall
 ## 🛠 Skills Snapshot  
 | Category | Technologies |
 |---------|--------------|
-| **Languages** | JavaScript, TypeScript, Go, C/C++ |
+| **Languages** | JavaScript, TypeScript, Go, C/C++, Rust |
 | **Backend** | Node.js, Express.js, NestJS |
 | **Cloud & DevOps** | Docker, AWS |
 | **Databases** | MongoDB, MySQL |
