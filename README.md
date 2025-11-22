@@ -55,4 +55,4 @@ I'm always curious, always learning — and always ready to collaborate on chall
 ![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumarmeet&show_icons=true&theme=radical)
 
 ### 🔥 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarmeet&langs_count=10&theme=radical)_)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarmeet&langs_count=10&theme=radical)
