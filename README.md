@@ -5,7 +5,7 @@
 ---
 
 ## 💫 About Me
-I’m a passionate **Software Developer** with over years of experience** in building scalable backend systems, designing APIs, and creating efficient cloud-ready applications.
+I’m a passionate **Software Developer** with over years of experience in building scalable backend systems, designing APIs, and creating efficient cloud-ready applications.
 
 I love writing clean, maintainable code and enjoy exploring modern backend technologies, distributed systems, and cloud-native architectures.  
 Solving real-world engineering problems, optimizing performance, and designing reliable systems are what motivate me every day.
