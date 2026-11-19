@@ -29,7 +29,7 @@
 
 ## 💫 About Me
 
-Results-driven **Senior Software Developer** with **4+ years** designing scalable, secure, high-performance backend systems. I take **end-to-end ownership** — system design, API contracts, data modeling, and service communication — and I love turning messy business requirements into clean, well-documented architecture that scales.
+Results-driven **Senior Software Developer** designing scalable, secure, high-performance backend systems. I take **end-to-end ownership** — system design, API contracts, data modeling, and service communication — and I love turning messy business requirements into clean, well-documented architecture that scales.
 
 - 🧠 Deep in **Node.js**, **Go (Golang)**, and **Python (FastAPI)** — plus full-stack delivery with **React** & **Next.js**
 - ☁️ Cloud-native on **AWS** (Lambda, ECS, EC2, S3, API Gateway) with **Docker** + **CI/CD**
